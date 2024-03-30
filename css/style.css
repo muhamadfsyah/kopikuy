@@ -570,6 +570,10 @@ footer div.navigasi a {
       margin-left: auto;
    }
 
+   img.logo {
+      height: 40px;
+   }
+
    header div.kiri,
    header div.kanan {
       width: 100%;
