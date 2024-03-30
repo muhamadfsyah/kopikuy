@@ -1,0 +1,115 @@
+{
+  "arabica": [
+    {
+      "foto": "https://images.unsplash.com/photo-1625021659159-f63f546d74a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJhYmljYXxlbnwwfHwwfHx8MA%3D%3D",
+      "nama": "Arabica Bali",
+      "size": "500gr",
+      "harga": "500.000",
+      "link": "https://www.google.com/search?q=arabica+bali&tbm=shop"
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1559525839-b184a4d698c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFyYWJpY2F8ZW58MHx8MHx8fDA%3D",
+      "nama": "Arabica Sumatera",
+      "size": "100gr",
+      "harga": "100.000",
+      "link": "https://www.google.com/search?q=arabica+sumatera&tbm=shop"
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1634250497145-101badd1d75c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGFyYWJpY2F8ZW58MHx8MHx8fDA%3D",
+      "nama": "Arabica Flores",
+      "size": "150gr",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=arabica+flores&tbm=shop"
+    },
+    {
+      "nama": "Arabica Toraja",
+      "size": "200gr",
+      "harga": "200.000",
+      "link": "https://www.google.com/search?q=arabica+toraja&tbm=shop",
+      "foto": "https://images.unsplash.com/photo-1643881578966-1d6ea6d20de7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODZ8fGFyYWJpY2F8ZW58MHx8MHx8fDA%3D"
+    }
+  ],
+  "robusta": [
+    {
+      "foto": "https://images.unsplash.com/photo-1654202751843-5e6fc2c07c84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fHJvYnVzdGF8ZW58MHx8MHx8fDA%3D",
+      "nama": "Robusta Lampung",
+      "size": "100gr",
+      "harga": "80.000",
+      "link": "https://www.google.com/search?q=robusta+lampung&tbm=shop"
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1700627565746-fdfc4ee3c88a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fHJvYnVzdGF8ZW58MHx8MHx8fDA%3D",
+      "nama": "Robusta Sidikalang",
+      "size": "150gr",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=robusta+sidikalang&tbm=shop"
+    },
+    {
+      "nama": "Robusta Aceh Gayo",
+      "size": "100gr",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=robusta+aceh+gayo&tbm=shop",
+      "foto": "https://images.unsplash.com/photo-1641790048744-c9d881c40ec7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8a29waSUyMGdheW98ZW58MHx8MHx8fDA%3D"
+    }
+  ],
+  "nonkopi": [
+    {
+      "foto": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGljZSUyMGNyZWFtfGVufDB8fDB8fHww",
+      "nama": "Ice Cream",
+      "size": "50ml",
+      "harga": "25.000",
+      "link": "https://www.google.com/search?q=ice+cream&tbm=shop"
+    },
+    {
+      "nama": "Lemon Tea",
+      "size": "100ml",
+      "harga": "12.000",
+      "link": "https://www.google.com/search?q=lemon+tea&tbm=shop",
+      "foto": "https://images.unsplash.com/photo-1443131307017-4097c8ac7763?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGxlbW9uJTIwdGVhfGVufDB8fDB8fHww"
+    },
+    {
+      "nama": "Orange Juice",
+      "size": "100ml",
+      "harga": "15.000",
+      "link": "https://www.google.com/search?q=orange+juice&tbm=shop",
+      "foto": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fG9yYW5nZSUyMGp1aWNlfGVufDB8fDB8fHww"
+    },
+    {
+      "nama": "Mojito",
+      "size": "70ml",
+      "harga": "10.000",
+      "link": "https://www.google.com/search?q=mojito&tbm=shop",
+      "foto": "https://images.unsplash.com/photo-1527661591475-527312dd65f5?q=80&w=1430&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ],
+  "makanan": [
+    {
+      "nama": "Nasi Goreng",
+      "size": "100gr",
+      "harga": "20.000",
+      "link": "https://www.google.com/search?q=nasi+goreng&tbm=shop",
+      "foto": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZWQlMjByaWNlfGVufDB8fDB8fHww"
+    },
+    {
+      "nama": "Kentang Goreng",
+      "size": "50gr",
+      "harga": "10.000",
+      "link": "https://www.google.com/search?q=kentang+goreng&tbm=shop",
+      "foto": "https://images.unsplash.com/photo-1606755456206-b25206cde27e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJlbmNoJTIwZnJpZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "nama": "Roti Bakar",
+      "size": "100gr",
+      "harga": "18.000",
+      "link": "https://www.google.com/search?q=roti+bakar&tbm=shop",
+      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRvYXN0fGVufDB8fDB8fHww"
+    },
+    {
+      "nama": "Mie Instan",
+      "size": "100gr",
+      "harga": "10.000",
+      "link": "https://www.google.com/search?q=mie+instan&tbm=shop",
+      "foto": "https://images.unsplash.com/photo-1612927601601-6638404737ce?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
