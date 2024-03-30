@@ -164,7 +164,7 @@ nav {
 
 img.logo {
    /* height mengatur tinggi elemen */
-   height: 40px;
+   height: 60px;
    /* penjelasan margin mirip dengan padding, fungsinya untuk memberi jarak pada elemen */
    margin-left: 20px;
 }
@@ -568,6 +568,10 @@ footer div.navigasi a {
    a.shop {
       margin-right: 20px;
       margin-left: auto;
+   }
+
+   img.logo {
+      height: 40px;
    }
 
    header div.kiri,
